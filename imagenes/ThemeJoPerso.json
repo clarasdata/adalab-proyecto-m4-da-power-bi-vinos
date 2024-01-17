@@ -1,0 +1,7 @@
+{ 
+    "name": "ThemeJoPerso", 
+    "dataColors": ["#434890", "#35a6ff", "#88478e", "#8e8e8e", "#a186be", "#d15497", "#f85994", "#faa0a5", "#c7b299", "#54D028", "#D0F540", "#057BE0"],
+    "background":"#FFFFFF",
+    "foreground": "#4584D3",
+    "tableAccent": "#31B6FD"
+}
